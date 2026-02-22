@@ -1,5 +1,21 @@
 # Central Fund of Israel - Facts
 
+All information accessed on February 22, 2026 from [centralfundofisrael.org](https://www.centralfundofisrael.org/) and related sources.
+
+---
+
+## CFI FAQ on Charitable Giving Beyond the Pre-1967 Border
+
+Source: [https://www.centralfundofisrael.org/faq](https://www.centralfundofisrael.org/faq)
+
+> **Is it illegal to give charity in Israel over the pre-1967 border?**
+>
+> The Central Fund has documents from the IRS, the State Department and U.S. Senators confirming that it is permissible to give charity in areas of the State of Israel and those under Israeli administration.
+
+![CFI FAQ - Pre-1967 Border](CFI-FAQ-pre1967-border.png)
+
+---
+
 ## Im Tirtzu Donation Page
 
 Source: [https://secured.israelgives.org/en/pay/IMTI](https://secured.israelgives.org/en/pay/IMTI)
